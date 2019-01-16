@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*.pt
+convolutional-neural-networks/cifar-cnn/data
+pytorch-challenge/flower_data
+convolutional-neural-networks/mnist-mlp/data
